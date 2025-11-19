@@ -1,3 +1,5 @@
+package coopoo;
+
 
 /**
  * Décrivez votre classe classe1 ici.
@@ -24,6 +26,7 @@ public class classe1
      *
      * @param  y   le paramètre de la méthode
      * @return     la somme de x et de y
+     *    * @return     la somme de x et de y
      */
     public int sampleMethod(int y)
     {

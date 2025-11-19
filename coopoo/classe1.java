@@ -28,9 +28,12 @@ public class classe1
      * @return     la somme de x et de y
      *    * @return     la somme de x et de y
      */
-    public int sampleMethod(int y)
+    public int sampleMethod( int y)
     {
         // Insérez votre code ici
         return x + y;
+    }
+    public int getZ (int z){
+        return (z);
     }
 }
